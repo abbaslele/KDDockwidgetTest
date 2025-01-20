@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ApplicationTheme.qml</file>
+        <file>HomePage.qml</file>
+        <file>CustomButton.qml</file>
+        <file>CustomCheckedButton.qml</file>
+        <file>CustomHeaderLabel.qml</file>
+        <file>CustomTextField.qml</file>
+        <file>ReceiverSettingControl.qml</file>
+        <file>Assets/Icons/assignment.svg</file>
+        <file>Assets/Icons/check_circle_outline.svg</file>
+        <file>Assets/Icons/dark_mode_fill.svg</file>
+        <file>Assets/Icons/error_outline.svg</file>
+        <file>Assets/Icons/history.svg</file>
+        <file>Assets/Icons/keyboard_return.svg</file>
+        <file>Assets/Icons/light_mode.svg</file>
+        <file>Assets/Icons/location_pin.svg</file>
+        <file>Assets/Icons/login.svg</file>
+        <file>Assets/Icons/logout.svg</file>
+        <file>Assets/Icons/pause_circle_filled.svg</file>
+        <file>Assets/Icons/play_circle_filled.svg</file>
+        <file>Assets/Icons/save_fill.svg</file>
+        <file>Assets/Icons/settings_fill.svg</file>
+        <file>Assets/Icons/Shahab.svg</file>
+        <file>Assets/Icons/sort.svg</file>
+        <file>Assets/Icons/supervisor_account.svg</file>
+        <file>Assets/Icons/view_compact.svg</file>
+        <file>Assets/Icons/workspaces_filled.svg</file>
+    </qresource>
+</RCC>
